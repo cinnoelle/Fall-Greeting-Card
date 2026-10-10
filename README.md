@@ -15,6 +15,9 @@ A Halloween-themed greeting card I made using Python's graphics library. I creat
 - Animation using `time.sleep()`
 - Mouse input
 
+## Preview
+![Cat Pumpkin Greeting Card](preview.png)
+
 ## How to Run
 1. Download the Python file.
 2. Make sure you have the `graphics.py` library installed.
